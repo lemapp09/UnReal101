@@ -151,6 +151,54 @@
                   </llm>
                 </llm>
               </chat>
+              <chat>
+                <internalId value="e55b81e7-6054-47ee-bd5e-4d4f70036386" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="4307515e-614d-485b-a2fe-4e4e5079b5ae" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
             </list>
           </chats>
           <defaultLlm>
